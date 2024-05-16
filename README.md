@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Kinotijoan/BomaLink/assets/117837618/ac5908cd-1c44-430a-86a3-15e876531e14" width="200">
+  <img src="./assets/bomalink-logo.png" width="200">
 </p>
 
-<h1 align="center">BomaLink</h1>
+<!-- <h1 align="center">BomaLink</h1> -->
 <h3 align="center">Maamuzi sahihi, ushirikiano wa kudumu</h3>
 
 
